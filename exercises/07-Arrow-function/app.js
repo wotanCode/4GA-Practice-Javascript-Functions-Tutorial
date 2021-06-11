@@ -1,4 +1,5 @@
-function multy(a,b){
+
+const multy = (a,b) =>{
     return a*b;
 }
 
